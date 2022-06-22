@@ -91,3 +91,6 @@ header{
     border: 2px solid var(--main-color);
     color: var(--big-font);
 }
+section{
+    padding: 100px 18%;
+}
