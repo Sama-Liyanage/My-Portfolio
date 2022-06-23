@@ -132,3 +132,16 @@ span{
     line-height: 28px;
     margin-bottom: 20px;
 }
+.social a{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(128,103,240,1);
+    font-size: 17px;
+    color: var(--bg-color);
+    margin-right: 22px;
+    margin-bottom: 30px;
+}
