@@ -94,3 +94,12 @@ header{
 section{
     padding: 100px 18%;
 }
+.home{
+    min-height: 100vh;
+    height: 100%;
+    width: 100%;
+    background: url("../images/background.jpg");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
