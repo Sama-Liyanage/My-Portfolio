@@ -128,7 +128,7 @@ span{
 }
 .home-text p{
     font-size: var(--p-font);
-    color: var(--secound-color);
+    color: var(--text-color);
     line-height: 28px;
     margin-bottom: 20px;
 }
